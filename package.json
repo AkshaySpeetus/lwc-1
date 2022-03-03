@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/akshayspeetus.lwc-l0au9djg",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Q499Ewbd4t3b0QO8zWRl --open"
+  }
+}
